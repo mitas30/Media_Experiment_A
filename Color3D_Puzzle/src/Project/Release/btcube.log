@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (Release\) に別のプロジェクト (btcube.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
-cl : コマンド ライン  warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
-  make_gimmick.cpp
-  btcube.vcxproj -> T:\OneDrive - 筑波大学\授業資料\3_Spring\情報メディア実験A\Color3D_Puzzle\src\Project\Release\final_assesment.exe
